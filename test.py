@@ -2,7 +2,7 @@ import cv2
 import pyautogui
 import numpy as np
 import time
-
+#
 """img = cv2.imread("Resources/suiwave.jpg")
 print(img.shape)
 

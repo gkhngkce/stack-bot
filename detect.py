@@ -2,7 +2,7 @@ import cv2
 import pyautogui
 import numpy as np
 import time
-
+#
 print("waiting for 4 seconds")
 time.sleep(5)
 print("recording has started")
